@@ -1,5 +1,6 @@
 public class AnatomiaDasClasses {
-    
+    public static void main(String[] args) throws Exception {
+
     99,9% das nossas classes iniciarão com public class;
     toda classe precisa de nome, exemplo MinhaClasse;
     O nome do arquivo deve ser identico ao nome da classe publica;
@@ -14,5 +15,7 @@ public class MinhaClasse {
     }
 }    
 
+
+}
 
 }
