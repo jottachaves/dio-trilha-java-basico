@@ -1,4 +1,5 @@
-public class TiposVariaveis {
+public class AnatomiaDasClasses {
+    
     99,9% das nossas classes iniciarão com public class;
     toda classe precisa de nome, exemplo MinhaClasse;
     O nome do arquivo deve ser identico ao nome da classe publica;
